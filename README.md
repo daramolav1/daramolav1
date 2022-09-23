@@ -6,11 +6,15 @@ Full-Stack Developer
 
 I gravitated towards software engineering and website development early in life and yearned to learn more and more as time went on. Fullstack development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break it to improve the code (in a separate Git branch, of course). My specialties include quickly learning new skills, problem solving, full-stack web development, responsive design principles, website optimization, HTML, CSS, JavaScript, Bootstrap, ReactJS, Figma, NodeJS, SQL, and Postman. I'm always adding new skills to my repertoire as well. I’m also eager to meet other software engineers in the area, so feel free to connect!
 
-*   🌍  I'm based in New Jersey
-*   🖥️  See my portfolio at [Victor's Portfolio](http://victor-daramola.herokuapp.com/)
-*   ✉️  You can contact me at [victorddaramola@gmail.com](mailto:victorddaramola@gmail.com)
-*   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on interesting projects### Skills 
+* 🌍  I'm based in New Jersey
+* 🖥️  See my portfolio at [Victor's Portfolio](http://victor-daramola.herokuapp.com/)
+* ✉️  You can contact me at [victorddaramola@gmail.com](mailto:victorddaramola@gmail.com)
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating on interesting projects
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -29,12 +33,14 @@ I gravitated towards software engineering and website development early in life 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/daramolav1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/daramolav1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/daramolav1/marketing-landing-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daramolav1&repo=marketing-landing-page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daramolav1/to-do-list" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daramolav1&repo=to-do-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/daramolav1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daramolav1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/daramolav1/marketing-landing-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daramolav1&repo=marketing-landing-page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daramolav1/to-do-list" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daramolav1&repo=to-do-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
