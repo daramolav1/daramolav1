@@ -1,46 +1,75 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Daramola
-=======================================================================================================================================
+<h2>Welcome 👋</h2>
+<p>Hey there, I'm Victor. </p>
 
-Full-Stack Developer
---------------------
+<p>I gravitated towards software engineering and website development early in life and yearned to learn more and more as time went on. Fullstack development calls to all my passions; it incorporates creativity and problem-solving and I'm allowed to break it to improve the code (in a separate Git branch, of course).</p>  
 
-I gravitated towards software engineering and website development early in life and yearned to learn more and more as time went on. Fullstack development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break it to improve the code (in a separate Git branch, of course). My specialties include quickly learning new skills, problem solving, full-stack web development, responsive design principles, website optimization, HTML, CSS, JavaScript, Bootstrap, ReactJS, Figma, NodeJS, SQL, and Postman. I'm always adding new skills to my repertoire as well. I’m also eager to meet other software engineers in the area, so feel free to connect!
+<p>My specialties include quickly learning new skills, problem-solving, full-stack web development, responsive design principles, website optimization, HTML, CSS, JavaScript, Bootstrap, ReactJS, Figma, NodeJS, SQL, and Postman. I'm always adding new skills to my repertoire as well. I’m also eager to meet other software engineers in the area, so feel free to connect!</p>
 
-* 🌍  I'm based in New Jersey
-* 🖥️  See my portfolio at [Victor's Portfolio](http://victor-daramola.herokuapp.com/)
-* ✉️  You can contact me at [victorddaramola@gmail.com](mailto:victorddaramola@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on interesting projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<h2>Things I code with</h2>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
+<h2>My latest posts on <a href="https://medium.com/@victor.daramola">My Blog</a></h2>
+<ul>
+  <li>
+    <a href="https://medium.com/strategio/greatest-portfolio-of-all-time-a057287613fc">
+      <b>
+        Greatest Portfolio Of All Time?
+      </b>
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/strategio/a-beginners-guide-to-arrays-db03c27f20a7">
+      <b>
+        A Beginner’s Guide to Arrays
+      </b>
+    </a>
+  </li>
+    <li>
+    <a href="https://medium.com/strategio/the-benefits-of-devops-1e2edb83bee6">
+      <b>
+        The Benefits of DevOps
+      </b>
+    </a>
+  </li>
+</ul>
 
-### Socials
+<h2>GitHub Stats</h2>
 
-<p align="left"> <a href="https://www.github.com/daramolav1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daramolav1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daramolav1)](https://github.com/anuraghazra/github-readme-stats)
 
-### Badges
+![](https://raw.githubusercontent.com/daramolav1/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/daramolav1/github-stats-transparent/output/generated/languages.svg)
+![](https://komarev.com/ghpvc/?username=daramolav1)
 
-<b>Top Repositories</b>
+<h2>Where to find me</h2>
 
-<div width="100%" align="center"><a href="https://github.com/daramolav1/marketing-landing-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daramolav1&repo=marketing-landing-page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daramolav1/to-do-list" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daramolav1&repo=to-do-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://www.instagram.com/vicintech/">
+  <img align="left" alt="Victor Daramola's Instagram" width="30px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png?raw=true" />
+</a>
+<a href="https://www.twitter.com/vicintech">
+  <img align="left" alt="Victor Daramola | Twitter" width="30px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png?raw=true" />
+</a>
+<a href="https://www.linkedin.com/in/daramolav1/">
+  <img align="left" alt="Victor Daramola's LinkedIn" width="30px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png?raw=true" />
+</a>
+
